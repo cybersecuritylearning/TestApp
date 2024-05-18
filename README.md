@@ -1,3 +1,1 @@
-# TestApp
-BugBounty
- https://img.shields.io/badge/just%20the%20message-8A2BE2
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
